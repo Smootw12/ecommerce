@@ -6,7 +6,7 @@ I am also eager to learn and have a tremendous potential, ready to take on new c
 
 ## How To Run
 
-This was made with an older version of Sanity CMS. You have to install the node-modules of the sub project sanitymedium
+This was made with an older version of Sanity CMS. You have to install the node-modules of the sub project ecommsanity
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
